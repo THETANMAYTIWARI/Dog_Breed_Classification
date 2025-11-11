@@ -22,7 +22,7 @@ Combine classical CV (face detection) and deep learning (VGG16 transfer learning
 * ML Concepts: Transfer learning, data augmentation, CrossEntropyLoss, SGD, TF preprocessing
 * Dataset stats (used in notebook): ~13,233 human images, ~8,356 dog images (train/valid/test splits included)
 
-📊 Methodology
+### 📊 Methodology
 
 🔹 Face Detection (OpenCV)
 
