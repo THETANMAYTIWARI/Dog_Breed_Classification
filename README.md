@@ -1,4 +1,4 @@
-## 🐶 Dog Breed Classification — Tanmay Tiwari
+## 🐶 Dog Breed Classification
 
 A deep learning pipeline (Colab + PyTorch + OpenCV) that 
 
